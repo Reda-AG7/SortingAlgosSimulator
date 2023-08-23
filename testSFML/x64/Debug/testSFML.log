@@ -1,0 +1,86 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (testSFML.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Button.cpp
+  Delayer.cpp
+  Infos.cpp
+  main.cpp
+D:\CS435\testSFML\testSFML\main.cpp(56,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(90,98): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\CS435\testSFML\testSFML\main.cpp(90,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\CS435\testSFML\testSFML\main.cpp(98,98): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\CS435\testSFML\testSFML\main.cpp(98,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\CS435\testSFML\testSFML\main.cpp(114,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\CS435\testSFML\testSFML\main.cpp(114,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\CS435\testSFML\testSFML\main.cpp(269,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(270,59): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(270,86): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(271,61): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(271,88): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(273,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(274,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(276,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(280,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(281,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(288,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(304,19): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\CS435\testSFML\testSFML\main.cpp(308,60): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(309,59): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(363,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(365,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CS435\testSFML\testSFML\main.cpp(334,15): warning C4101: 'event': unreferenced local variable
+  State.cpp
+D:\CS435\testSFML\testSFML\State.cpp(14,52): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\CS435\testSFML\testSFML\State.cpp(14,46): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  testSFML.vcxproj -> D:\CS435\testSFML\x64\Debug\SortingAlgos.exe
