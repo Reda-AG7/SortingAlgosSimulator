@@ -11,15 +11,15 @@ Sorting algorithms are fundamental in computer science and are employed in vario
 Algorithms
 ----------
 
-### Insertion Sort O(\(n^{2}\))
+### Insertion Sort O(n^2)
 
 Insertion Sort is a simple sorting algorithm that builds the final sorted array one item at a time. It is efficient for small datasets.
 
-### Selection Sort O(\(n^{2}\))
+### Selection Sort O(n^2)
 
 Selection Sort is a simple and intuitive sorting algorithm. It works by dividing the input array into a sorted and an unsorted region.
 
-### Bubble Sort O(\(n^{2}\))
+### Bubble Sort O(n^2)
 
 Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
 
